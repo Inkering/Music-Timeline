@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "tachyons-line-height": "^3.0.7",
+    "tachyons-spacing": "^6.0.5",
+    "tachyons-type-scale": "^6.1.1",
+    "tachyons-typography": "^3.0.5"
+  }
+}
